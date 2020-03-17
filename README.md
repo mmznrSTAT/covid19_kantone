@@ -1,1 +1,2 @@
-# covid19_kantone
+# Allgemeines_D3_VorlageBarchart
+
